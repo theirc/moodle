@@ -19,7 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = getenv('APPSETTING_WWWROOT');
-$CFG->dataroot  = 'D:\\home\\site\\wwwroot\\moodledata\\';
+$CFG->dataroot  = 'D:\\home\\data\\moodledata\\';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
